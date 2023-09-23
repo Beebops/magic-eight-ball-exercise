@@ -1,0 +1,14 @@
+.EightBall {
+  background-color: black;
+  width: 400px;
+  height: 400px;
+  border-radius: 50%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.EightBall-answer {
+  color: white;
+}
